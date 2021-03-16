@@ -1,0 +1,17 @@
+header{
+    height: 50px;
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+    background-color: rgb(65, 118, 187);
+      
+}
+section{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
